@@ -6,4 +6,5 @@ My stupid boss still prefers SVN。
 add somewords.
  a new branch is quick & simple.
 Creating a new branch is quick and simple.
+I love wangmin.
 
